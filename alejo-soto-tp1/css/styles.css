@@ -8,6 +8,6 @@
 
 .bg-celeste .nav-link:hover {
     background-color: #ffffff !important;
-    color: gold !important;
+    color: rgb(255, 200, 0) !important;
     font-weight: bold !important;
 }
